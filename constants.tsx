@@ -55,10 +55,14 @@ export const STEPS: Step[] = [
 ];
 
 export const CLIENTS: Client[] = [
-  { name: 'Novo Genomics', logo: 'https://questme.net/assets/img/clients/1.png' },
-  { name: 'Ehya', logo: 'https://questme.net/assets/img/clients/2.png' },
-  { name: 'Al Dakheel', logo: 'https://questme.net/assets/img/clients/3.png' },
-  { name: 'Shark', logo: 'https://questme.net/assets/img/clients/4.png' },
-  { name: 'Dyari', logo: 'https://questme.net/assets/img/clients/5.png' },
-  { name: 'Adeed', logo: 'https://questme.net/assets/img/clients/10.png' },
+  { name: 'Novo Genomics', logo: 'https://questme.net/storage/29XQj8cIuIIFltVfgPCt1zSZSYpqTSD4G0wNZ2qq.jpg' },
+  { name: 'Ehya', logo: 'https://questme.net/storage/AYN7ZbujZcCaCzp17lK47awIbHFUGoLdMmmFRJT2.jpg' },
+  { name: 'Al Dakheel', logo: 'https://questme.net/storage/Wnj5isx9UARqWN300M36TF3fvNI5GSgKbmDMRVch.jpg' },
+  { name: 'Shark', logo: 'https://questme.net/storage/io2C9COR3KG8M1gjPrCKO7ujHYrfTeRdZdQxB457.jpg' },
+  { name: 'Dyari', logo: 'https://questme.net/storage/PKc80V4mFcRq6rgLtUaMDjvgoeMoNKYr8nkbrTrx.jpg' },
+  { name: 'Adeed', logo: 'https://questme.net/storage/I4gdGmAyPgmJToNOzlhLwcAV6185CzTP4YDLWJZ6.jpg' },
+  { name: 'Mosqr', logo: 'https://questme.net/storage/W0FWOlhhNMoLyIKn4rJzAxpBO98vUX7gGuHTo4cd.jpg' },
+  { name: 'Arc', logo: 'https://questme.net/storage/hqEcboxIpElgTHWh54b2CpO2BGNweY0ZlIIKL57R.jpg' },
+  { name: 'Cloud Studio', logo: 'https://questme.net/storage/fhVWdlasSSdbzWFxIBzCyvpaoSP9VGwIo98Q55YI.jpg' },
+  { name: 'Guar', logo: 'https://questme.net/storage/VNtu4PzuxZ7BMXzjtHL0PXiuDELlFeLInXClBC5V.jpg' },
 ];
