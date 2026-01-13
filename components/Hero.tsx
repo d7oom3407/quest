@@ -32,13 +32,6 @@ const Hero: React.FC = () => {
 
       <div className="container mx-auto px-6 relative z-10 text-center max-w-4xl">
         <div className="animate-fade-in">
-          <div className="mb-6 inline-flex items-center gap-2 px-4 py-2 rounded-full bg-quest-orange/20 text-quest-orange text-sm font-bold border border-quest-orange/40 backdrop-blur-md">
-             <span className="relative flex h-2 w-2">
-              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-quest-orange opacity-75"></span>
-              <span className="relative inline-flex rounded-full h-2 w-2 bg-quest-orange"></span>
-            </span>
-            شريكك في النجاح التسويقي
-          </div>
           <h1 className="text-5xl lg:text-8xl font-bold text-white leading-tight mb-8">
             نخلق تجربتك <br />
             <span className="text-quest-orange">الاستثنائية</span>
